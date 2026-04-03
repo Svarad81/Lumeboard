@@ -9,16 +9,8 @@
     "storage",
     "notifications",
     "activeTab",
-    "scripting",
-    "identity"
+    "scripting"
   ],
-  "oauth2": {
-    "client_id": "407769393248-p1s800ebfm26qdvre4hvvqgqceo46bgj.apps.googleusercontent.com",
-    "scopes": [
-      "https://www.googleapis.com/auth/userinfo.email",
-      "https://www.googleapis.com/auth/userinfo.profile"
-    ]
-  },
   "host_permissions": [
     "<all_urls>"
   ],
@@ -39,7 +31,7 @@
     }
   },
   "content_security_policy": {
-    "extension_pages": "script-src 'self'; object-src 'self'; img-src 'self' https://*.unsplash.com https://www.google.com https://*.gstatic.com https://*.pinimg.com https://icons.duckduckgo.com https://s2.googleusercontent.com data: blob:"
+    "extension_pages": "script-src 'self'; object-src 'self'; img-src 'self' https://*.unsplash.com https://*.gstatic.com https://*.pinimg.com https://icons.duckduckgo.com data: blob:"
   },
   "action": {
     "default_title": "LumeBoard"

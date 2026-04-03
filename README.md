@@ -9,8 +9,8 @@ LumeBoard is a high-performance "New Tab" bookmark manager designed with a state
 If you just want to use the extension without building from source:
 
 1.  **Download** this repository as a ZIP or clone it.
-2.  Open **Google Chrome**.
-3.  Navigate to `chrome://extensions`.
+2.  Open **your browser**.
+3.  Navigate to the extensions settings (e.g., `chrome://extensions`).
 4.  Enable **Developer Mode** (top-right toggle).
 5.  Click **Load Unpacked**.
 6.  Select the **`dist`** folder inside the LumeBoard directory.
