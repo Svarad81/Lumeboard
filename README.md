@@ -47,7 +47,7 @@ If you want to modify the code or contribute:
 ---
 
 ## 🔒 Security & attribution
-**Note to Developers**: This application includes a background **Heartbeat Monitor** and a **Scattered DNA Gate**. Any unauthorized modification or removal of the "Created by VARAD" attribution in the source or the DOM will trigger a `[FATAL_SECURITY_BREACH]` state, rendering the application unusable.
+**Note to Developers**: This application includes a background **Heartbeat Monitor** and a **Scattered DNA Gate**. Any unauthorized modification or removal of the "Created by VARAD CHAKRAWAR" attribution in the source or the DOM will trigger a `[FATAL_SECURITY_BREACH]` state, rendering the application unusable.
 
 ---
 
